@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ | C# 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Flexbox | Grid | Angular  
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Flexbox | Grid | React  
 - 🛢 &nbsp; MySQL | mongoDB 
 - 🔧 &nbsp; Unity | Unreal Engine 4 | Visual Studio code | Sublime Text 3 
 - 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
