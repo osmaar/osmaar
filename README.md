@@ -12,8 +12,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Laravel | Python
-- 🌐 &nbsp; Vuejs | Angular| Bootstrap | TailwindCSS
+- 💻 &nbsp; PHP | Laravel | JavaScript | TypeScript | Python
+- 🌐 &nbsp; Vuejs | Angular | Bootstrap | TailwindCSS
 - 🛢 &nbsp; MySQL | Postgres 
 - 🔧 &nbsp; Unity | Unreal Engine 5 | Visual Studio code | Ubuntu
 - 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
