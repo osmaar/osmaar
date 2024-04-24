@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I am currently learning web application development.
 - 🤔 &nbsp; Explore new technologies and develop quick solutions.
-- 💼 &nbsp; Full Stack Developer.
+- 💼 &nbsp; Full Stack Developer PHP/Laravel /Vuejs/Angular.
 - 🌱 &nbsp; Responsive Design Enthusiast.
 - ✍️ &nbsp; Watching anime and playing video games as hobbies/side activities.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
