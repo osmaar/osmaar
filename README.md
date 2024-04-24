@@ -1,5 +1,5 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/564x/87/4b/49/874b4950fbd37540ba8e2e9ddcb2f2ee.jpg](https://i.pinimg.com/originals/02/37/c2/0237c278886150deeee3fb68181de579.jpg" width="260">
+<img align='right' src="https://i.pinimg.com/originals/02/37/c2/0237c278886150deeee3fb68181de579.jpg" width="260">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
