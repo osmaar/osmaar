@@ -1,12 +1,11 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/564x/87/4b/49/874b4950fbd37540ba8e2e9ddcb2f2ee.jpg" width="260">
+<img align='right' src="https://i.pinimg.com/564x/87/4b/49/874b4950fbd37540ba8e2e9ddcb2f2ee.jpg](https://i.pinimg.com/originals/02/37/c2/0237c278886150deeee3fb68181de579.jpg" width="260">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am currently learning web application development.
 - 🤔 &nbsp; Explore new technologies and develop quick solutions.
-- 🎓 &nbsp; Communication and Electronics student at the <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute. </a>
-- 💼 &nbsp; Full Stack and Frontend Developer.
+- 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Responsive Design Enthusiast.
 - ✍️ &nbsp; Watching anime and playing video games as hobbies/side activities.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
