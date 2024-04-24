@@ -12,10 +12,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C# 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Flexbox | Grid | React  
-- 🛢 &nbsp; MySQL | mongoDB 
-- 🔧 &nbsp; Unity | Unreal Engine 4 | Visual Studio code | Sublime Text 3 
+- 💻 &nbsp; PHP | Laravel | Python
+- 🌐 &nbsp; Vuejs | Angular| Bootstrap | TailwindCSS
+- 🛢 &nbsp; MySQL | Postgres 
+- 🔧 &nbsp; Unity | Unreal Engine 5 | Visual Studio code | Ubuntu
 - 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
 
 <br>
