@@ -29,6 +29,15 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://httpd.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height='42px' /> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
+<a href="https://laravel.com/" target="_blank"> <img height='42px'  </a>
 
           
           
