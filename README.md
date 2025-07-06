@@ -23,16 +23,9 @@
 ### 🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height='4px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-<a href="https://angular.io/" target="_blank"><img align="left" alt="ANGULAR" height ="4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/></a>
-<a href="https://vuejs.org//" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/></a>
-<a href="https://laravel.com/" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/></a>
-<a href="https://www.php.net/" target="_blank"> <img height='42px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>
 <a href="https://livewire.laravel.com/" target="_blank"> <img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/></a>
 <a href="https://www.mysql.com/" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/></a>
-<a href="https://www.postgresql.org/download" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></a>
-<a href="https://ubuntu.com/download/" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/></a>
 <a href="https://www.python.org/" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 <a href="https://aws.amazon.com/es/free/?trk=fbdab87a-dd2a-4292-b64b-fba2380a93e1&sc_channel=ps&s_kwcid=AL!4422!10!71949523401316!71950049561700&ef_id=65a6bb2d949012c9e12cdd04e6525cd8:G:s" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a>
