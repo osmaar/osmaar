@@ -23,8 +23,8 @@
 ### 🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-<a href="https://angular.io/" target="_blank"><img align="left" alt="ANGULAR" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img height='4px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+<a href="https://angular.io/" target="_blank"><img align="left" alt="ANGULAR" height ="4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/></a>
 <a href="https://vuejs.org//" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/></a>
 <a href="https://laravel.com/" target="_blank"><img height='42px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/></a>
 <a href="https://www.php.net/" target="_blank"> <img height='42px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/></a>
