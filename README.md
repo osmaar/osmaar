@@ -23,17 +23,19 @@
 - 🧩 Frameworks: Vue.js | Angular | Astro.js  
 - 🎨 CSS: Bootstrap | TailwindCSS  
 
-### ☁️ Infraestructura y DevOps  
+### ☁️ Infrastructure & DevOps  
 - 🐳 Docker  
 - ☸️ Kubernetes  
-- ☁️ AWS (EC2, S3, RDS, etc.)
+- ☁️ AWS (EC2, S3)
+
+### 🤖 Automation & Scripting  
+- 🐍 Python (automation scripts, CLI tools, bots, scraping, etc.)
 
 ### 🛠️ Dev Tools / IDEs  
 - 🖥️ Visual Studio Code | Visual Studio | JetBrains  
 - 🧰 Git | GitHub | Terminal (bash/zsh)  
 
-
-### 🖌️ Diseño y Multimedia  
+### 🖌️ Design & Multimedia  
 - 🎨 Adobe CC: Photoshop | Illustrator | Premiere | After Effects  
 - 🖍️ Figma
 - ✂️ CapCut  
@@ -43,9 +45,10 @@
 - 🧵 Aseprite (Pixel Art)  
 - 🕹️ Unreal Engine 5  
 
-### 💻 Sistemas Operativos  
-- 🐧 Ubuntu  
-- 🪟 Windows / WSL
+### 💻 Operating Systems  
+- 🐧 Linux (Ubuntu)  
+- 🪟 Windows  
+- 🍎 macOS
 
 <br>
 
