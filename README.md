@@ -12,20 +12,49 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Laravel | JavaScript | TypeScript | Python
-- 🌐 &nbsp; Vuejs | Angular | Bootstrap | TailwindCSS
-- 🛢 &nbsp; MySQL | Postgres 
-- 🔧 &nbsp; Unity | Unreal Engine 5 | Visual Studio code | Ubuntu
-- 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
+### 🚀 Backend  
+- 🐘 PHP (Laravel, Codeigniter)  
+- ☕ Java (Spring Boot)  
+- 🌐 Node.js (Express)  
+- 🛢️ MySQL | PostgreSQL | MariaDB | Oracle  
+
+### 🎨 Frontend  
+- 📜 JavaScript | TypeScript  
+- 🧩 Frameworks: Vue.js | Angular | Astro.js  
+- 🎨 CSS: Bootstrap | TailwindCSS  
+
+### ☁️ Infraestructura y DevOps  
+- 🐳 Docker  
+- ☸️ Kubernetes  
+- ☁️ AWS (EC2, S3, RDS, etc.)
+
+### 🛠️ Dev Tools / IDEs  
+- 🖥️ Visual Studio Code | Visual Studio | JetBrains  
+- 🧰 Git | GitHub | Terminal (bash/zsh)  
+
+
+### 🖌️ Diseño y Multimedia  
+- 🎨 Adobe CC: Photoshop | Illustrator | Premiere | After Effects  
+- 🖍️ Figma
+- ✂️ CapCut  
+
+### 🎮 Game Development  
+- 🎮 Godot
+- 🧵 Aseprite (Pixel Art)  
+- 🕹️ Unreal Engine 5  
+
+### 💻 Sistemas Operativos  
+- 🐧 Ubuntu  
+- 🪟 Windows / WSL
 
 <br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
-&nbsp; <a href="https://www.instagram.com/dime_holas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://osmar-lopez.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/web.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/osmardevlopez/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:osmichan07@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:contacto@osmar-lopez.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 <br>
